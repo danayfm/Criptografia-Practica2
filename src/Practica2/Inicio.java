@@ -30,7 +30,8 @@ public class Inicio {
 					resultado=Cifrador_sencillo.descifrarECB(bytes, clave);
 				}
                                 
-                               //Fgdfgjddasdasdasdlfskanflsdfnosdngfsdfsdfasda
+                                
+                               //FgdfgjddasdasdasdlfskanflsdfnosdngfsdfsdfasdaADIOOSSSSS
 			
 		        Implementados.arrayFichero(resultado,salida);
 			}
