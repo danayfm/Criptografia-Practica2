@@ -29,6 +29,8 @@ public class Inicio {
 				}else if(modo.equals("descifrar-ECB")){
 					resultado=Cifrador_sencillo.descifrarECB(bytes, clave);
 				}
+                                
+                               //Fgdfgjddasdasdasdlfskanflsdfnosdngfsdfsdfasda
 			
 		        Implementados.arrayFichero(resultado,salida);
 			}
